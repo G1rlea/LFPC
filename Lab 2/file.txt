@@ -1,0 +1,6 @@
+q0-aq1
+q0-aq0
+q1-bq2*
+q0-bq0
+q1-bq1
+q2-bq2*
